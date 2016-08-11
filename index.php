@@ -1,6 +1,8 @@
 <?php
 
 
-echo "Hello Worldz";
+echo "Hello Worldzz";
+echo "somethig is up";
+
 
 exit;
